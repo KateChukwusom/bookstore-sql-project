@@ -1,6 +1,6 @@
  # Simple Bookstore SQL Project
 
- This is a beginner SQL project using SQLite to analyze basi sales data, I just started learning SQL and decided to practice a little. More to come.
+ This is a beginner SQL project using SQLite to analyze basic sales data, I just started learning SQL and decided to practice a little. More to come.
 
  ## Dataset
  - Customer
